@@ -1,0 +1,13 @@
+# Secrets and credentials
+.env
+Bot.txt
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
